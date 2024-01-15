@@ -29,7 +29,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Acknowledgments
 
-![Team Photo (no Charles)](https://github.com/Macbee280/Madd-E/blob/master/images/GU-Hackathon.jpeg?raw=true)
+![Team Photo (no Charles)](https://github.com/Macbee280/Madd-E/blob/main/Images/GU-Hackathon.jpeg?raw=true)
 
 Contributors on this project:
 
